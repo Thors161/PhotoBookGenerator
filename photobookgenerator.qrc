@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/photoBookGenerator">
+        <file>resources/ruit.png</file>
+    </qresource>
+</RCC>
